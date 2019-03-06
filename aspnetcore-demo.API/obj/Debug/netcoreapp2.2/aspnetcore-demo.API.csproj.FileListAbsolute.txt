@@ -12,3 +12,6 @@ C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-d
 C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.dll
 C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.pdb
 C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.csprojAssemblyReference.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\bin\Debug\netcoreapp2.2\aspnetcore-demo.Domain.dll
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\bin\Debug\netcoreapp2.2\aspnetcore-demo.Domain.pdb
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.csproj.CopyComplete

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-demo.API", "aspnetcore-demo.API\aspnetcore-demo.API.csproj", "{77652B9C-6B89-4654-93A5-D55037CEC0C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-demo.Domain", "aspnetcore-demo.Domain\aspnetcore-demo.Domain.csproj", "{66F22B41-1062-4D75-83CF-17D1F1AB203F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{77652B9C-6B89-4654-93A5-D55037CEC0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77652B9C-6B89-4654-93A5-D55037CEC0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77652B9C-6B89-4654-93A5-D55037CEC0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F22B41-1062-4D75-83CF-17D1F1AB203F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F22B41-1062-4D75-83CF-17D1F1AB203F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F22B41-1062-4D75-83CF-17D1F1AB203F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F22B41-1062-4D75-83CF-17D1F1AB203F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

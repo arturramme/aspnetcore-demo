@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using aspnetcore_demo.Domain.Commands;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace aspnetcore_demo.API.Controllers
@@ -10,6 +12,13 @@ namespace aspnetcore_demo.API.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        private readonly IMediator _mediator;
+
+        public ValuesController(IMediator mediator)
+        {
+            _mediator = mediator;
+        }
+
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
@@ -26,8 +35,11 @@ namespace aspnetcore_demo.API.Controllers
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async Task Post([FromBody] string value)
         {
+
+            var response = await _mediator.Send(new RegisterNewCustomerCommand());
+
         }
 
         // PUT api/values/5

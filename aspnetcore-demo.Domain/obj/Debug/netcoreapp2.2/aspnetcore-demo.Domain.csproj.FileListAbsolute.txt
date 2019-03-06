@@ -1,0 +1,9 @@
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Domain\bin\Debug\netcoreapp2.2\aspnetcore-demo.Domain.deps.json
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Domain\bin\Debug\netcoreapp2.2\aspnetcore-demo.Domain.dll
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Domain\bin\Debug\netcoreapp2.2\aspnetcore-demo.Domain.pdb
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Domain\obj\Debug\netcoreapp2.2\aspnetcore-demo.Domain.csprojAssemblyReference.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Domain\obj\Debug\netcoreapp2.2\aspnetcore-demo.Domain.csproj.CoreCompileInputs.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Domain\obj\Debug\netcoreapp2.2\aspnetcore-demo.Domain.AssemblyInfoInputs.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Domain\obj\Debug\netcoreapp2.2\aspnetcore-demo.Domain.AssemblyInfo.cs
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Domain\obj\Debug\netcoreapp2.2\aspnetcore-demo.Domain.dll
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Domain\obj\Debug\netcoreapp2.2\aspnetcore-demo.Domain.pdb
