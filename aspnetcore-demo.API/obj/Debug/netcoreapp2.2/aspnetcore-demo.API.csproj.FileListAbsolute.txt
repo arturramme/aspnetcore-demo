@@ -1,0 +1,14 @@
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\bin\Debug\netcoreapp2.2\aspnetcore-demo.API.deps.json
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\bin\Debug\netcoreapp2.2\aspnetcore-demo.API.runtimeconfig.json
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\bin\Debug\netcoreapp2.2\aspnetcore-demo.API.runtimeconfig.dev.json
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\bin\Debug\netcoreapp2.2\aspnetcore-demo.API.dll
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\bin\Debug\netcoreapp2.2\aspnetcore-demo.API.pdb
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.csproj.CoreCompileInputs.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.RazorAssemblyInfo.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.RazorAssemblyInfo.cs
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.AssemblyInfoInputs.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.AssemblyInfo.cs
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.RazorTargetAssemblyInfo.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.dll
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.pdb
+C:\Temp\aspnetcore-demo\aspnetcore-demo.API\obj\Debug\netcoreapp2.2\aspnetcore-demo.API.csprojAssemblyReference.cache
