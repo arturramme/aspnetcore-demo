@@ -1,0 +1,12 @@
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\bin\Debug\netcoreapp2.2\aspnetcore-demo.Repository.deps.json
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\bin\Debug\netcoreapp2.2\aspnetcore-demo.Repository.dll
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\bin\Debug\netcoreapp2.2\aspnetcore-demo.Repository.pdb
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\bin\Debug\netcoreapp2.2\aspnetcore-demo.Domain.dll
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\bin\Debug\netcoreapp2.2\aspnetcore-demo.Domain.pdb
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\obj\Debug\netcoreapp2.2\aspnetcore-demo.Repository.csprojAssemblyReference.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\obj\Debug\netcoreapp2.2\aspnetcore-demo.Repository.csproj.CoreCompileInputs.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\obj\Debug\netcoreapp2.2\aspnetcore-demo.Repository.AssemblyInfoInputs.cache
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\obj\Debug\netcoreapp2.2\aspnetcore-demo.Repository.AssemblyInfo.cs
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\obj\Debug\netcoreapp2.2\aspnetcore-demo.Repository.csproj.CopyComplete
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\obj\Debug\netcoreapp2.2\aspnetcore-demo.Repository.dll
+C:\Temp\aspnetcore-demo\aspnetcore-demo.Repository\obj\Debug\netcoreapp2.2\aspnetcore-demo.Repository.pdb

@@ -38,7 +38,7 @@ namespace aspnetcore_demo.API.Controllers
         public async Task Post([FromBody] string value)
         {
 
-            var response = await _mediator.Send(new RegisterNewCustomerCommand());
+            var response = await _mediator.Send(new RegisterNewCustomerCommand { Name = value });
 
         }
 
